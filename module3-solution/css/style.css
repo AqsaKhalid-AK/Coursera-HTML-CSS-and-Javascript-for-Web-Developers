@@ -1,0 +1,20 @@
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+  font-family:  Arial, Helvetica, sans-serif;
+  margin-left: 0;
+  margin-right: 0;
+  line-height: 1;
+}
+
+.navbar-toggler{
+  border-color: red !important;
+}
+
+#navbarNav{
+  background-color: slateblue;
+}
+
+.container-fluid{
+  background-color: lightsalmon;
+}
